@@ -1,0 +1,52 @@
+<style type="text/css">
+
+header {
+	background: #f0f0f0;
+	text-align: center;
+}
+
+body{
+	background: #fff;
+}
+
+h1{
+	font-size:48;
+}
+
+h2{
+	font-size:24;
+}
+
+h3{
+	font-size:18;
+}
+
+p{
+	font-size:14;
+}
+
+.headline{
+	background: #000;
+	color: #fff;
+	max-width: 600px;
+	text-align: center;
+	float: center;
+}
+		
+.awesome{
+	float:left;
+}
+
+.cool {
+	float:right;
+}
+		
+.rad {
+	float:center;
+}
+
+#info {
+
+		}
+
+</style>
